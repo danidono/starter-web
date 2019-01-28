@@ -19,3 +19,5 @@ Last not added modification
 Modification
 
 Mididididididiidididid
+
+dalsia zmena na rebase from origin
